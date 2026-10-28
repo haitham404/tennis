@@ -9,5 +9,10 @@
 <img width="958" height="1011" alt="image" src="https://github.com/user-attachments/assets/8f96a972-e5de-4bba-90a9-4af476348abc" />
 
 
+# zoom in to output
+
+<img width="1277" height="1033" alt="image" src="https://github.com/user-attachments/assets/206c5804-3c40-4178-802e-fca7dd89a19d" />
+<img width="971" height="826" alt="image" src="https://github.com/user-attachments/assets/349913a2-b290-4c33-a1f9-0022885456ae" />
+
 
 
