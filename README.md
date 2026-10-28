@@ -15,4 +15,6 @@
 <img width="971" height="826" alt="image" src="https://github.com/user-attachments/assets/349913a2-b290-4c33-a1f9-0022885456ae" />
 
 
+# deployment risks
+https://chatgpt.com/s/t_6ae257d1c0a08191b5020d97fdd5d4ab
 
